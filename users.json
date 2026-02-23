@@ -1,5 +1,5 @@
 {
-  "last_no": 4,
+  "last_no": 5,
   "current_prefix": "UA",
   "users": {
     "50cf28dc216fda27": {
@@ -19,6 +19,11 @@
     },
     "{025A844A-3A68-463B-A787-D1A786335B37}": {
       "username": "UA000004",
+      "status": true,
+      "expiry": "2026-03-26T22:37:41.860233"
+    },
+    "b862824a": {
+      "username": "UA000005",
       "status": true,
       "expiry": "2026-03-26T22:37:41.860233"
     }
