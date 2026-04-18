@@ -18,9 +18,11 @@ jobs:
         run: flutter pub get
 
       - name: Build macOS
-        run: flutter build macos --release --no-codesign --dart-define=GH_TOKEN=${{ secrets.GH_TOKEN }}
+        # --no-codesign ကို ဖြုတ်လိုက်ပါ
+        run: flutter build macos --release --dart-define=GH_TOKEN=${{ secrets.GH_TOKEN }}
 
       - name: Build iOS
+        # iOS မှာတော့ --no-codesign က ရှိရပါမယ်
         run: flutter build ios --release --no-codesign --dart-define=GH_TOKEN=${{ secrets.GH_TOKEN }}
 
       - name: Upload macOS Artifact
