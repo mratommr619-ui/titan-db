@@ -1,4 +1,4 @@
-# titan_ai_app
+#Ai SRT
 
 A new Flutter project.
 
