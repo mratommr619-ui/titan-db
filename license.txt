@@ -1,0 +1,33 @@
+============================================================
+           AI SRT EDITOR - END USER LICENSE AGREEMENT
+============================================================
+
+Copyright (c) 2024-2026 MR. ATOM. All rights reserved.
+
+By installing or using this software, you agree to be bound 
+by the following terms:
+
+1. GRANT OF LICENSE:
+This software is provided for personal and professional use. 
+
+2. ACCESS & SUBSCRIPTION:
+Usage is granted based on your Device ID (UID) and subscription 
+period. Attempting to bypass the authentication system or 
+hacking the GitHub database is strictly prohibited.
+
+3. DATA USAGE:
+AI SRT EDITOR uses external AI providers (Gemini, GPT-4, etc.). 
+Users are responsible for their own API keys and usage costs 
+associated with these providers.
+
+4. NO WARRANTY:
+The software is provided "AS IS" without warranty of any kind. 
+The developer is not liable for any data loss, file corruption, 
+or AI translation inaccuracies.
+
+5. DISTRIBUTION:
+You may not redistribute, decompile, or reverse engineer 
+this software without the explicit permission of MR. ATOM.
+
+For support, contact: https://t.me/mratom_619
+============================================================

@@ -1,0 +1,8 @@
+package name ချိန်းချင်ရင်
+dev_dependencies:
+  change_app_package_name: ^1.1.0
+
+flutter pub get
+flutter pub run change_app_package_name:main com.mratom.easysrt
+
+--------------------------------------
